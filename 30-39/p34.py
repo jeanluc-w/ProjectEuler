@@ -22,4 +22,4 @@ for num in range(10, 2540161):
         factorions.append(num)
             
 # Print the resulting sum of the found number(s)
-print(sum(factorions)) # Result: 
+print(sum(factorions)) # Result: 40730
